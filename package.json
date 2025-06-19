@@ -1,0 +1,21 @@
+{
+    "name": "com.ddevs.deviousutils",
+    "displayName": "DeviousUtils",
+    "version": "1.0.0",
+    "unity": "2017.1",
+    "description": "Utility package for general use that extends the functionality of Unity's base classs used by the DeviousDevs team",
+    "keywords": [
+        "utils"
+    ],
+    "category": "Utils",
+    "samples": {
+    },
+    "type": "commonjs",
+    "author": {
+        "name": "DeviousUtils",
+        "email": "Theo.Morris@mds.ac.nz",
+        "url": "https://github.com/TheosCreation"
+    },
+    "dependencies": {
+    }
+}

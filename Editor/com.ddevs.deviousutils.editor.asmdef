@@ -1,0 +1,18 @@
+{
+    "name": "DeviousUtilsEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9f9e41b1b124d7348b61a411e434d68f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
